@@ -19,7 +19,7 @@ module.exports = {
     subPages: subPages,
   },
   plugins: [`@adobe/gatsby-theme-aio`],
-  pathPrefix: process.env.PATH_PREFIX || "/commerce/pwa-studio/",
+  pathPrefix: process.env.PATH_PREFIX || "/commerce/pwa-studio/gh-6/",
   flags: {
     DEV_SSR: false
   }
