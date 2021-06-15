@@ -41,6 +41,10 @@ module.exports = [
         title: "Modify the site footer",
         path: "/tutorials/basic-modifications/modify-footer/",
       },
+      {
+        title: "Change static assets directory",
+        path: "/tutorials/basic-modifications/change-static-assets-directory/"
+      },
     ],
   },
   {
