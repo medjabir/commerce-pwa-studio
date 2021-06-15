@@ -16,6 +16,10 @@ module.exports = [
         path: "/guides/project/versioning/",
       },
       {
+        title: "Upgrade guide",
+        path: "/guides/project/upgrade/"
+      },
+      {
         title: "Contributing",
         path: "/guides/project/contributing/",
       },
