@@ -26,7 +26,7 @@ See the [PWA Studio Target Experiments][] project repository for documented exam
 You can extend the functionality of Peregrine's custom hooks and talons by applying wrapper modules.
 
 The `talon.wrapWith(module)` method is simlar to the [interceptor pattern][] used in Magento backend plugins.
-Peregrine will dynamically inject the code from the passed `module` "around" the implementation of a talon, by passing the talon function through the wrapper function before exporting it.
+During the build process, the extensibility framework dynamically wraps a talon implentation with code from a wrapper module by passing the talon function through the wrapper module before exporting it.
 
 [interceptor pattern]: https://devdocs.magento.com/guides/v2.4/extension-dev-guide/plugins.html
 
@@ -41,7 +41,7 @@ Wrapper modules for Peregrine must:
 - be implemented in a separate file from the build-time Target code
 - be accessible in frontend code via an `import`
 - be a valid ES Module
-- export one default function that implements the same interface, i.e. it receives the original talon function as its parameter and must return a new talon function
+- export one default function that implements the target talon's interface, i.e. it receives the original talon function as its parameter and must return a new talon function with the same function interface
 
 Extensions which use wrapper modules _must_ also intercept the [Buildpack `specialFeatures` target][] and set the feature flag `esModule: true`.
 
