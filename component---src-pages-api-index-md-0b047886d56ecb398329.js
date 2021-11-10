@@ -1,0 +1,2 @@
+(self.webpackChunkcommerce_pwa_studio=self.webpackChunkcommerce_pwa_studio||[]).push([[8824],{43451:function(n,t,e){"use strict";e.r(t),e.d(t,{_frontmatter:function(){return s},default:function(){return f}});var o=e(22122),r=e(19756),u=(e(15007),e(64983)),c=e(99536),m=["components"],s={},a={_frontmatter:s},p=c.Z;function f(n){var t=n.components,e=(0,r.Z)(n,m);return(0,u.mdx)(p,(0,o.Z)({},a,e,{components:t,mdxType:"MDXLayout"}))}f.isMDXComponent=!0}}]);
+//# sourceMappingURL=component---src-pages-api-index-md-0b047886d56ecb398329.js.map
