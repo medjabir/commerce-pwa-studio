@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-metapackages-index-md","path":"/metapackages/","result":{"pageContext":{"frontmatter":{"title":"Metapackages"}}},"staticQueryHashes":["915530536"]}
+{
+    "componentChunkName": "component---src-pages-metapackages-index-md",
+    "path": "/metapackages/",
+    "result": {"pageContext":{"frontmatter":{"title":"Metapackages"}}},
+    "staticQueryHashes": ["915530536"]}

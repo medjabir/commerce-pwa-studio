@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-integrations-adobe-commerce-theme-vs-storefront-index-md","path":"/integrations/adobe-commerce/theme-vs-storefront/","result":{"pageContext":{"frontmatter":{"title":"Theme vs Storefront"}}},"staticQueryHashes":["915530536"]}
+{
+    "componentChunkName": "component---src-pages-integrations-adobe-commerce-theme-vs-storefront-index-md",
+    "path": "/integrations/adobe-commerce/theme-vs-storefront/",
+    "result": {"pageContext":{"frontmatter":{"title":"Theme vs Storefront"}}},
+    "staticQueryHashes": ["915530536"]}

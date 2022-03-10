@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-guides-upgrading-versions-index-md","path":"/guides/upgrading-versions/","result":{"pageContext":{"frontmatter":{"title":"Upgrading versions"}}},"staticQueryHashes":["915530536"]}
+{
+    "componentChunkName": "component---src-pages-guides-upgrading-versions-index-md",
+    "path": "/guides/upgrading-versions/",
+    "result": {"pageContext":{"frontmatter":{"title":"Upgrading versions"}}},
+    "staticQueryHashes": ["915530536"]}

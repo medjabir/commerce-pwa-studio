@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-metapackages-venia-sample-data-index-md","path":"/metapackages/venia-sample-data/","result":{"pageContext":{"frontmatter":{"title":"Venia Sample Data metapackage"}}},"staticQueryHashes":["915530536"]}
+{
+    "componentChunkName": "component---src-pages-metapackages-venia-sample-data-index-md",
+    "path": "/metapackages/venia-sample-data/",
+    "result": {"pageContext":{"frontmatter":{"title":"Venia Sample Data metapackage"}}},
+    "staticQueryHashes": ["915530536"]}

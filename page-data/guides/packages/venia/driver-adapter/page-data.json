@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-guides-packages-venia-driver-adapter-index-md","path":"/guides/packages/venia/driver-adapter/","result":{"pageContext":{"frontmatter":{"title":"Driver and adapter components"}}},"staticQueryHashes":["915530536"]}
+{
+    "componentChunkName": "component---src-pages-guides-packages-venia-driver-adapter-index-md",
+    "path": "/guides/packages/venia/driver-adapter/",
+    "result": {"pageContext":{"frontmatter":{"title":"Driver and adapter components"}}},
+    "staticQueryHashes": ["915530536"]}
